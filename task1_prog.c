@@ -1,6 +1,7 @@
 #include <stdio.h>
+void axyusak(int);
+
 int main() {
-	int axyusak(int);
 	int x = 0;
 	printf("enter int num:  ");
 	scanf("%d", &x);
